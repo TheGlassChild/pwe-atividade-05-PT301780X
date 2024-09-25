@@ -16,7 +16,6 @@ figure {
     display: inline-block;
     border: 0px dotted gray;
     margin: 20px;
-    /* adjust as needed */
 }
 
 figure img {
@@ -24,7 +23,7 @@ figure img {
 }
 
 figure figcaption {
-    border: 1px dotted blue;
+    border: 1px dotted #595969;
     text-align: center;
 }
 
